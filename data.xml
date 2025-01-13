@@ -1,0 +1,23 @@
+<CARTA>
+  <GRUPO>
+    <NOMBRE>Entrantes</NOMBRE>
+    <PLATO>
+      <NOMBRE>Bravas</NOMBRE>
+      <DESCRIPCIO>Medias lunas de patata, fritas con salsa brava ligeramente picante.</DESCRIPCIO>
+      <PRECIO>3.50</PRECIO>
+    </PLATO>
+    <PLATO>
+      <NOMBRE>Calamares</NOMBRE>
+      <DESCRIPCIO>Anillos de calamar rebozados y fritos al momento.</DESCRIPCIO>
+      <PRECIO>6.00</PRECIO>
+    </PLATO>
+  </GRUPO>
+  <GRUPO>
+    <NOMBRE>Postres</NOMBRE>
+    <PLATO>
+      <NOMBRE>Tarta de Queso</NOMBRE>
+      <DESCRIPCIO>Deliciosa tarta de queso con base de galleta.</DESCRIPCIO>
+      <PRECIO>4.00</PRECIO>
+    </PLATO>
+  </GRUPO>
+</CARTA>
